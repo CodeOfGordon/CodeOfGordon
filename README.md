@@ -10,6 +10,6 @@ I'm Gordon Huynh, a third-year student studying Mathematical Economics with a mi
 <br><br><br>
 
 ## 🌐 Find Me Online:
-[![My Website](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://gordons-website.pages.dev/)
+[![My Website](https://img.icons8.com/ios-filled/50/1E90FF/domain.png)](https://gordons-website.pages.dev/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/gordon-huynh-uw)
 
